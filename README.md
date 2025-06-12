@@ -1,2 +1,2 @@
-# IDB
-Implementation of a relational database system for a bookstore
+# Abstract
+This project involves the design and implementation of a relational database system for a bookstore in Kuala Lumpur. The system aims to streamline data management for book orders, members, payments, and inventory by replacing inefficient file-based systems. Using normalization techniques and SQL (DDL & DML), the team constructed a well-structured database with minimized redundancy and enhanced data integrity. Entity Relationship Diagrams (ERD) and normalization up to 3NF ensured logical data organization. The project demonstrates practical application of database concepts in supporting real-world business operations and decision-making in a digital bookstore environment.
